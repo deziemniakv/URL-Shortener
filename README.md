@@ -12,13 +12,13 @@ A simple React project in JavaScript.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/deziemiakv/twoj-projekt.git
+git clone https://github.com/deziemniakv/URL-Shortener.git
 ```
 
 2. Go to the project directory:
 
 ```bash
-cd twoj-projekt
+cd your-project
 ```
 
 3. Install dependencies:
