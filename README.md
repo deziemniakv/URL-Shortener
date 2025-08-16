@@ -46,3 +46,6 @@ http://localhost:5173
 * Project in **pure JavaScript + React**.
 * `.tsx` files will not work; change them to `.jsx` if you have such files.
 
+# preview
+
+![image](https://i.imgur.com/X4ljOWU.png)
