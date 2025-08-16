@@ -1,6 +1,6 @@
 # URL SHORTENER
 
-A simple React project in JavaScript.
+A simple React project in TypeScript.
 
 ## Requirements
 
